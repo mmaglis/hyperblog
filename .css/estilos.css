@@ -2,11 +2,16 @@ body
 {
     color: #333;
     text-align: center;
+<<<<<<< HEAD
     font-family: Courier;
+=======
+    font-family: "Arial";
+>>>>>>> cabe
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
 #container
 {
     width: 70%;
@@ -18,4 +23,37 @@ body
 #container h1
 {
     font-size:20px;
+=======
+
+#cabe
+{
+    background:#33A;
+    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecere #tagline
+{
+   padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#container
+{
+    width: 70%
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    marging: 0 autos;
+}
+#container h1
+{
+    font-size: 20px;
+}
+# post
+{
+    padding: 1em;
+>>>>>>> cabe
 }
