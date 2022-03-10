@@ -10,3 +10,4 @@ Un blog increible para el curso de Git y Github de Platzi
 * Trucos muy locos del profesor 
 * Las personalidades mútiple de Freddy 
 * Creador por el increible Platzi Team 
+* Incluye ejemplos Windows,Linux y Mac 
