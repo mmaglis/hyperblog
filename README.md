@@ -8,4 +8,5 @@ Un blog increible para el curso de Git y Github de Platzi
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas 
 * Trucos muy locos del profesor 
-*Las personalidades mútiple de Freddy 
+* Las personalidades mútiple de Freddy 
+* Creador por el increible Platzi Team 
